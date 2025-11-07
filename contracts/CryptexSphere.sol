@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// New Line
+// New Lin
 pragma solidity ^0.8.17;
 
 /**
